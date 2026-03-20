@@ -9,3 +9,5 @@ Contact: Eran Mukamel (emukamel@ucsd.edu), Stella Dracheva (stella.dracheva@mssm
 Data browser: https://brainome.ucsd.edu/BrainHydroxyDevelopment/
 
 Data download: https://brainome.ucsd.edu/BrainHydroxyDevelopment/data
+
+<img width="2500" height="2193" alt="BrainHydroxy_Graphic_Abstract" src="https://github.com/user-attachments/assets/0763979c-e43b-4b37-b0fc-d320f2963922" />
