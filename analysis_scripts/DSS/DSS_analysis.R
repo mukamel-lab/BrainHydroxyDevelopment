@@ -1,3 +1,5 @@
+# Merge differentially methylated sites (DMS) to form regions (DMRs)
+
 suppressMessages(library("DSS"))
 suppressMessages(library(data.table))
 suppressMessages(library(bsseq))
