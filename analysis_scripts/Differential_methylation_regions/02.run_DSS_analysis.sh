@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+## Conduct post-hoc pairwise comparisons for DML analysis using DSS package in R
 # Define an array of groups
 groups=("Infancy" "Early_Childhood" "Late_Childhood" "Adolescence" "Adulthood" "Late_Adulthood")
 

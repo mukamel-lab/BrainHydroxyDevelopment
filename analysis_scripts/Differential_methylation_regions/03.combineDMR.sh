@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Combine DMR results from all chromosomes into a single file for each pairwise comparison
 groups=("Infancy" "Early_Childhood" "Late_Childhood" "Adolescence" "Adulthood" "Late_Adulthood")
 celltypes=("GABA" "GLU")
 assays=("BS" "OXBS")
@@ -27,7 +28,6 @@ for celltype in "${celltypes[@]}"; do
                             head -n 1 "$file_name" > "$combined_file"
                             header_copied=1
                         fi
-
                         # Append the content without the header
                         tail -n +2 "$file_name" >> "$combined_file"
                     fi

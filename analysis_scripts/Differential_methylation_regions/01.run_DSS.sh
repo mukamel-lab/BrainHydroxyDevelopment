@@ -1,5 +1,5 @@
 #!/bin/bash
-
+### Run DSS for pair-wise comparisons of developmental periods for each cell type and assay
 # Create logs directory if it doesn't exist
 mkdir -p logs
 
